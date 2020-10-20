@@ -1,7 +1,5 @@
 # NLW2
 
-# Link da demo do Heroku: https://nlwproffyvictor.herokuapp.com/
-
 ## :heavy_exclamation_mark: Informações
 
 O site Proffy consiste a possibilidade de contratar um professor particular de forma rápida e fácil, totalmente automatizada. Utilizando uma das melhores tecnologias atuais, o site entrega um layout simples, completo, intuitivo e agradável (Totalmente responsivo :iphone:). </br>
